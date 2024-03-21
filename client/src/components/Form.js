@@ -17,7 +17,7 @@ export default function Form() {
             <form id='form' onSubmit={handleSubmit(onSubmit)}>
                 <div className='grid gap-4'>
                     <div className='input-group'>
-                        <input type='text' {...register('name')} placeholder='Salário' className='form-input' />
+                        <input type='text' {...register('name')} placeholder='Nome' className='form-input' />
                     </div>
                     <select className='form-input' {...register('type')}>
                         <option value="Investimento" defaultValue>Investimento</option>
