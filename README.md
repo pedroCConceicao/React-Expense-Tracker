@@ -12,15 +12,15 @@ Este repositório contém o código-fonte do projeto de um site de rastreamento 
 
 ## Tecnologias Utilizadas
 
-- **MongoDB:** Banco de dados NoSQL utilizado para armazenar os dados das despesas e receitas.
+- **MongoDB:** Banco de dados NoSQL utilizado para armazenar os dados das despesas e receitas. 🍃
+  
+- **Express.js:** Framework web para Node.js utilizado para criar a API RESTful para o aplicativo. ⚙️
 
-- **Express.js:** Framework web para Node.js utilizado para criar a API RESTful para o aplicativo.
+- **React.js:** Biblioteca JavaScript para criar interfaces de usuário, utilizada para criar o frontend da aplicação. ⚛️
 
-- **React.js:** Biblioteca JavaScript para criar interfaces de usuário, utilizada para criar o frontend da aplicação.
+- **Node.js:** Ambiente de execução JavaScript do lado do servidor utilizado para executar o backend da aplicação. 🚀
 
-- **Node.js:** Ambiente de execução JavaScript do lado do servidor utilizado para executar o backend da aplicação.
-
-- **Chart.js:** Biblioteca JavaScript para criar gráficos interativos utilizada para representar visualmente os dados.
+- **Chart.js:** Biblioteca JavaScript para criar gráficos interativos utilizada para representar visualmente os dados. 📊
 
 ## Instalação
 
