@@ -1,4 +1,4 @@
-# Expense Tracker Website - MERN Stack
+# Gerenciador de Contas - MERN Stack
 
 Este repositório contém o código-fonte do projeto de um site de rastreamento de despesas (expense tracker) desenvolvido utilizando a pilha MERN (MongoDB, Express.js, React.js, Node.js). O site permite aos usuários registrar suas despesas e receitas, fornecendo diversas visualizações de dados através de dashboards.
 
