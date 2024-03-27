@@ -51,11 +51,3 @@ npm run client
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-*Este arquivo README é fornecido como um exemplo. Sinta-se à vontade para personalizá-lo de acordo com o seu projeto.*
