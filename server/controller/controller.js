@@ -1,6 +1,8 @@
 const model = require('../models/model.js')
 
 // post: http://localhost:8080/api/categories
+
+//teste
 async function create_Categories(req, res) {
     const Create = new model.Categories({
         type: 'Poupança',
